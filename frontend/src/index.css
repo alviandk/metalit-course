@@ -1,0 +1,8 @@
+.pattern {
+  background:url(assets/images/pattern/04.png) no-repeat center center; 
+  background-size:cover;
+}
+
+.img50{
+  width: 50%;
+}
