@@ -193,7 +193,7 @@ const Detail = () => {
 												<div class="accordion-body mt-3">
 													<div class="d-flex justify-content-between align-items-center">
 														<div class="position-relative d-flex align-items-center">
-															<a href="#" class="btn btn-danger-soft btn-round btn-sm mb-0 stretched-link position-static">
+															<a href="course-video-player" class="btn btn-danger-soft btn-round btn-sm mb-0 stretched-link position-static">
 																<i class="fas fa-play me-0"></i>
 															</a>
 															<span class="d-inline-block text-truncate ms-2 mb-0 h6 fw-light w-100px w-sm-200px w-md-400px">Introduction</span>

@@ -6,7 +6,6 @@ import Video3 from "../../assets/images/videos/1080p.mp4";
 import Caption1 from "../../assets/images/videos/en.vtt"
 import Caption2 from "../../assets/images/videos/fr.vtt"
 
-
 const VideoPlayer = () => {
   return (
 <main>
@@ -17,8 +16,8 @@ const VideoPlayer = () => {
 				<div class="video-player rounded-3">
 					<video controls crossorigin="anonymous" playsinline poster={Poster}>
 						<source src={Video1} type="video/mp4" size="360"/>
-						<source src={Video1} type="video/mp4" size="720"/>
-						<source src={Video1} type="video/mp4" size="1080"/>
+						<source src={Video2} type="video/mp4" size="720"/>
+						<source src={Video3} type="video/mp4" size="1080"/>
 						<track kind="captions" label="English" srclang="en" src={Caption1} default />
 						<track kind="captions" label="French" srclang="fr" src={Caption2} />
 					</video>
@@ -164,7 +163,7 @@ const VideoPlayer = () => {
 
 						<div class="card-footer">
 							<div class="d-grid">
-								<a href="course-detail.html" class="btn btn-primary-soft mb-0">Back to course</a>
+								<a href="course-detail" class="btn btn-primary-soft mb-0">Back to course</a>
 							</div>
 						</div>
 

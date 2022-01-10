@@ -1,5 +1,6 @@
 import React from "react";
 import icon from '../../assets/images/courses/4by3/01.jpg';
+import Detail from "../Detail";
 
 const CourseList = () => {
   return (
@@ -37,7 +38,7 @@ const CourseList = () => {
 									<div class="card-body">
 										<div class="d-flex justify-content-between mb-2">
 											<h5 class="card-title mb-0">
-												<a href="#">
+												<a href="/course-detail">
 													The Complete Digital Marketing Course - 12 Courses in 1
 												</a>
 											</h5>
