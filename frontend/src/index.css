@@ -26,3 +26,8 @@
 .persen20{
 	width:20%;
 }
+
+.navbar-brand {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
