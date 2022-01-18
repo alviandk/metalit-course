@@ -1,0 +1,33 @@
+.pattern {
+  background:url(assets/images/pattern/04.png) no-repeat center center; 
+  background-size:cover;
+}
+
+.img50{
+  width: 50%;
+}
+
+.persen100{
+	width:100%;
+}
+
+.persen80{
+	width:80%;
+}
+
+.persen60{
+	width:60%;
+}
+
+.persen40{
+	width:40%;
+}
+
+.persen20{
+	width:20%;
+}
+
+.navbar-brand {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
