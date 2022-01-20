@@ -115,7 +115,7 @@ const Detail = () => {
 											covered in a basic digital marketing course syllabus in India or 
 											anywhere around the world, then reading this blog will help. 
 											Before we delve into the advanced <strong>
-											<a href="#" class="text-reset text-decoration-underline">
+											<a href="/" class="text-reset text-decoration-underline">
 												digital marketing course
 											</a></strong> syllabus, let’s look at the scope of digital marketing 
 											and what the future holds.
@@ -200,7 +200,7 @@ const Detail = () => {
 													<div class="accordion-body mt-3">
 														<div class="d-flex justify-content-between align-items-center">
 															<div class="position-relative d-flex align-items-center">
-																<a href="course-video-player" class="btn btn-danger-soft btn-round btn-sm mb-0 stretched-link position-static">
+																<a href="/course-video-player" class="btn btn-danger-soft btn-round btn-sm mb-0 stretched-link position-static">
 																	<i class="fas fa-play me-0"></i>
 																</a>
 																<span class="d-inline-block text-truncate ms-2 mb-0 h6 fw-light w-100px w-sm-200px w-md-400px">Introduction</span>
@@ -210,7 +210,7 @@ const Detail = () => {
 														<hr/>
 														<div class="d-flex justify-content-between align-items-center">
 															<div class="position-relative d-flex align-items-center">
-																<a href="#" class="btn btn-danger-soft btn-round btn-sm mb-0 stretched-link position-static">
+																<a href="/" class="btn btn-danger-soft btn-round btn-sm mb-0 stretched-link position-static">
 																	<i class="fas fa-play me-0"></i>
 																</a>
 																<span class="d-inline-block text-truncate ms-2 mb-0 h6 fw-light w-100px w-sm-200px w-md-400px"> What is Digital Marketing What is Digital Marketing</span>
@@ -233,7 +233,7 @@ const Detail = () => {
 													<div class="accordion-body mt-3">
 														<div class="d-flex justify-content-between align-items-center">
 															<div class="position-relative d-flex align-items-center">
-																<a href="#" class="btn btn-danger-soft btn-round btn-sm mb-0 stretched-link position-static">
+																<a href="/" class="btn btn-danger-soft btn-round btn-sm mb-0 stretched-link position-static">
 																	<i class="fas fa-play me-0"></i>
 																</a>
 																<span class="d-inline-block text-truncate ms-2 mb-0 h6 fw-light w-100px w-sm-200px w-md-400px">What is Digital Marketing</span>
@@ -243,7 +243,7 @@ const Detail = () => {
 														<hr/>
 														<div class="d-flex justify-content-between align-items-center">
 															<div class="position-relative d-flex align-items-center">
-																<a href="#" class="btn btn-danger-soft btn-round btn-sm mb-0 stretched-link position-static">
+																<a href="/" class="btn btn-danger-soft btn-round btn-sm mb-0 stretched-link position-static">
 																	<i class="fas fa-play me-0"></i>
 																</a>
 																<span class="d-inline-block text-truncate ms-2 mb-0 h6 fw-light w-100px w-sm-200px w-md-400px">How to Write Like Your Customers Talk</span>
@@ -255,7 +255,7 @@ const Detail = () => {
 														<div class="d-flex justify-content-between align-items-center">
 															<div class="position-relative d-flex align-items-center">
 																<div>
-																	<a href="#" class="btn btn-danger-soft btn-round btn-sm mb-0 stretched-link position-static" data-bs-toggle="modal" data-bs-target="#exampleModal">
+																	<a href="/" class="btn btn-danger-soft btn-round btn-sm mb-0 stretched-link position-static" data-bs-toggle="modal" data-bs-target="#exampleModal">
 																		<i class="fas fa-play me-0"></i>
 																	</a>
 																</div>
@@ -282,7 +282,7 @@ const Detail = () => {
 												<div class="col-md-5">
 													<img src={instructor} 
 														class="img-fluid rounded-3"
-														alt="instructor-image"/>
+														alt="instructorimage"/>
 												</div>
 												<div class="col-md-7">
 													<div class="card-body">
@@ -290,27 +290,27 @@ const Detail = () => {
 														<p class="mb-2">Instructor of Marketing</p>
 														<ul class="list-inline mb-3">
 															<li class="list-inline-item me-3">
-																<a href="#" class="fs-5 text-twitter">
+																<a href="/" class="fs-5 text-twitter">
 																	<i class="fab fa-twitter-square"></i>
 																</a>
 															</li>
 															<li class="list-inline-item me-3">
-																<a href="#" class="fs-5 text-instagram">
+																<a href="/" class="fs-5 text-instagram">
 																	<i class="fab fa-instagram-square"></i>
 																</a>
 															</li>
 															<li class="list-inline-item me-3">
-																<a href="#" class="fs-5 text-facebook">
+																<a href="/" class="fs-5 text-facebook">
 																	<i class="fab fa-facebook-square"></i>
 																</a>
 															</li>
 															<li class="list-inline-item me-3">
-																<a href="#" class="fs-5 text-linkedin">
+																<a href="/" class="fs-5 text-linkedin">
 																	<i class="fab fa-linkedin"></i>
 																</a>
 															</li>
 															<li class="list-inline-item">
-																<a href="#" class="fs-5 text-youtube">
+																<a href="/" class="fs-5 text-youtube">
 																	<i class="fab fa-youtube-square"></i>
 																</a>
 															</li>
@@ -373,10 +373,10 @@ const Detail = () => {
 										<div class="col-12">
 											<ul class="list-group list-group-borderless mb-0">
 												<li class="list-group-item pb-0">Mail ID:
-													<a href="#" class="ms-2">hello@email.com</a>
+													<a href="/" class="ms-2">hello@email.com</a>
 												</li>
 												<li class="list-group-item pb-0">Web:
-													<a href="#" class="ms-2">https://eduport.com</a>
+													<a href="/" class="ms-2">https://eduport.com</a>
 												</li>
 											</ul>
 										</div>
@@ -750,7 +750,7 @@ const Detail = () => {
 						
 									<div class="card shadow p-2 mb-4 z-index-9">
 										<div class="overflow-hidden rounded-3">
-											<img src={avatar4} class="card-img" alt="course image"/>
+											<img src={avatar4} class="card-img" alt="courseimage"/>
 					
 											<div class="bg-overlay bg-dark opacity-6"></div>
 											<div class="card-img-overlay d-flex align-items-start flex-column p-3">
@@ -783,7 +783,7 @@ const Detail = () => {
 
 												<div class="dropdown">
 
-													<a href="#"
+													<a href="/"
 														class="btn btn-sm btn-light rounded small"
 														role="button"
 														id="dropdownShare"
@@ -795,22 +795,22 @@ const Detail = () => {
 													<ul class="dropdown-menu dropdown-w-sm dropdown-menu-end min-w-auto shadow rounded" 
 														aria-labelledby="dropdownShare">
 														<li>
-															<a class="dropdown-item" href="#">
+															<a class="dropdown-item" href="/">
 																<i class="fab fa-twitter-square me-2"></i>Twitter
 															</a>
 														</li>
 														<li>
-															<a class="dropdown-item" href="#">
+															<a class="dropdown-item" href="/">
 																<i class="fab fa-facebook-square me-2"></i>Facebook
 															</a>
 														</li>
 														<li>
-															<a class="dropdown-item" href="#">
+															<a class="dropdown-item" href="/">
 																<i class="fab fa-linkedin me-2"></i>LinkedIn
 															</a>
 														</li>
 														<li>
-															<a class="dropdown-item" href="#">
+															<a class="dropdown-item" href="/">
 																<i class="fas fa-copy me-2"></i>Copy link
 															</a>
 														</li>
@@ -819,8 +819,8 @@ const Detail = () => {
 											</div>
 
 											<div class="mt-3 d-sm-flex justify-content-sm-between">
-												<a href="#" class="btn btn-outline-primary mb-0">Free trial</a>
-												<a href="#" class="btn btn-success mb-0">Buy course</a>
+												<a href="/" class="btn btn-outline-primary mb-0">Free trial</a>
+												<a href="/" class="btn btn-success mb-0">Buy course</a>
 											</div>
 										</div>
 									</div>
@@ -882,7 +882,7 @@ const Detail = () => {
 
 											<div class="col-8">
 												<h6 class="mb-0">
-													<a href="#">Fundamentals of Business Analysis</a>
+													<a href="/">Fundamentals of Business Analysis</a>
 												</h6>
 												<ul class="list-group list-group-borderless mt-1 d-flex justify-content-between">
 													<li class="list-group-item px-0 d-flex justify-content-between">
@@ -903,7 +903,7 @@ const Detail = () => {
 
 											<div class="col-8">
 												<h6 class="mb-0">
-													<a href="#">The Complete Video Production Bootcamp</a>
+													<a href="/">The Complete Video Production Bootcamp</a>
 												</h6>
 												<ul class="list-group list-group-borderless mt-1 d-flex justify-content-between">
 													<li class="list-group-item px-0 d-flex justify-content-between">
@@ -921,28 +921,28 @@ const Detail = () => {
 										<h4 class="mb-3">Popular Tags</h4>
 										<ul class="list-inline mb-0">
 											<li class="list-inline-item">
-												<a class="btn btn-outline-light btn-sm" href="#">blog</a>
+												<a class="btn btn-outline-light btn-sm" href="/">blog</a>
 											</li>
 											<li class="list-inline-item"> 
-												<a class="btn btn-outline-light btn-sm" href="#">business</a> 
+												<a class="btn btn-outline-light btn-sm" href="/">business</a> 
 											</li>
 											<li class="list-inline-item"> 
-												<a class="btn btn-outline-light btn-sm" href="#">theme</a> 
+												<a class="btn btn-outline-light btn-sm" href="/">theme</a> 
 											</li>
 											<li class="list-inline-item">
-												<a class="btn btn-outline-light btn-sm" href="#">bootstrap</a>
+												<a class="btn btn-outline-light btn-sm" href="/">bootstrap</a>
 											</li>
 											<li class="list-inline-item">
-												<a class="btn btn-outline-light btn-sm" href="#">data science</a>
+												<a class="btn btn-outline-light btn-sm" href="/">data science</a>
 											</li>
 											<li class="list-inline-item"> 
-												<a class="btn btn-outline-light btn-sm" href="#">web development</a> 
+												<a class="btn btn-outline-light btn-sm" href="/">web development</a> 
 											</li>
 											<li class="list-inline-item"> 
-												<a class="btn btn-outline-light btn-sm" href="#">tips</a> 
+												<a class="btn btn-outline-light btn-sm" href="/">tips</a> 
 											</li>
 											<li class="list-inline-item"> 
-												<a class="btn btn-outline-light btn-sm" href="#">machine learning</a> 
+												<a class="btn btn-outline-light btn-sm" href="/">machine learning</a> 
 											</li>
 										</ul>
 									</div>	

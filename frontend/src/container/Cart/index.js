@@ -19,8 +19,8 @@ const Cart = () => {
 								<div class="d-flex justify-content-center">
 									<nav aria-label="breadcrumb">
 										<ol class="breadcrumb breadcrumb-dots mb-0">
-											<li class="breadcrumb-item"><a href="#">Home</a></li>
-											<li class="breadcrumb-item"><a href="#">Courses</a></li>
+											<li class="breadcrumb-item"><a href="/">Home</a></li>
+											<li class="breadcrumb-item"><a href="/">Courses</a></li>
 											<li class="breadcrumb-item active" aria-current="page">Cart</li>
 										</ol>
 									</nav>
@@ -65,7 +65,7 @@ const Cart = () => {
 														</div>
 
 														<h6 class="mb-0 ms-lg-3 mt-2 mt-lg-0">	
-															<a href="#">Building Scalable APIs with GraphQL</a>
+															<a href="/">Building Scalable APIs with GraphQL</a>
 														</h6>
 													</div>
 												</td>
@@ -75,7 +75,7 @@ const Cart = () => {
 												</td>
 
 												<td>
-													<a href="#" 
+													<a href="/" 
 														class="btn btn-sm btn-success-soft px-2 me-1 mb-1 mb-md-0">
 														<i class="far fa-fw fa-edit"></i>
 													</a>
@@ -96,7 +96,7 @@ const Cart = () => {
 														</div>
 
 														<h6 class="mb-0 ms-lg-3 mt-2 mt-lg-0">	
-															<a href="#">Bootstrap 5 From Scratch</a>
+															<a href="/">Bootstrap 5 From Scratch</a>
 														</h6>
 													</div>
 												</td>
@@ -106,7 +106,7 @@ const Cart = () => {
 												</td>
 
 												<td>
-													<a href="#" 
+													<a href="/" 
 														class="btn btn-sm btn-success-soft px-2 me-1 mb-1 mb-md-0">
 														<i class="far fa-fw fa-edit"></i>
 													</a>
@@ -180,7 +180,7 @@ const Cart = () => {
 
 								<p class="small mb-0 mt-2 text-center">
 									By completing your purchase, you agree to these 
-									<a href="#">
+									<a href="/">
 										<strong>Terms of Service</strong>
 									</a>
 								</p>

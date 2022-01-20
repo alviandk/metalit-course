@@ -1,6 +1,5 @@
 import React from "react";
 import icon from '../../assets/images/courses/4by3/01.jpg';
-import Detail from "../Detail";
 import Navig from "../../components/Navbar";
 import Footer from "../../components/Footer";
 
@@ -17,7 +16,7 @@ const CourseList = () => {
 							<div class="d-flex">
 								<nav aria-label="breadcrumb">
 									<ol class="breadcrumb breadcrumb-dark breadcrumb-dots mb-0">
-										<li class="breadcrumb-item"><a href="#">Home</a></li>
+										<li class="breadcrumb-item"><a href="/">Home</a></li>
 										<li class="breadcrumb-item active" aria-current="page">Courses</li>
 									</ol>
 								</nav>
@@ -35,7 +34,7 @@ const CourseList = () => {
 								<div class="row g-0">
 
 									<div class="col-md-4">
-										<img src={icon} alt="card image"/>
+										<img src={icon} alt="cardimage"/>
 									</div>
 
 									<div class="col-md-8">
@@ -46,7 +45,7 @@ const CourseList = () => {
 														The Complete Digital Marketing Course - 12 Courses in 1
 													</a>
 												</h5>
-												<a href="#"><i class="fas fa-heart text-danger"></i></a>
+												<a href="/"><i class="fas fa-heart text-danger"></i></a>
 											</div>
 											<ul class="list-inline mb-1">
 												<li class="list-inline-item h6 fw-light mb-1 mb-sm-0">
@@ -91,16 +90,16 @@ const CourseList = () => {
 						<nav class="mt-4 d-flex justify-content-center" aria-label="navigation">
 							<ul class="pagination pagination-primary-soft rounded mb-0">
 								<li class="page-item mb-0">
-									<a class="page-link" href="#" tabindex="-1">
+									<a class="page-link" href="/" tabindex="-1">
 										<i class="fas fa-angle-double-left"></i>
 									</a>
 								</li>
-								<li class="page-item mb-0"><a class="page-link" href="#">1</a></li>
-								<li class="page-item mb-0 active"><a class="page-link" href="#">2</a></li>
-								<li class="page-item mb-0"><a class="page-link" href="#">..</a></li>
-								<li class="page-item mb-0"><a class="page-link" href="#">6</a></li>
+								<li class="page-item mb-0"><a class="page-link" href="/">1</a></li>
+								<li class="page-item mb-0 active"><a class="page-link" href="/">2</a></li>
+								<li class="page-item mb-0"><a class="page-link" href="/">..</a></li>
+								<li class="page-item mb-0"><a class="page-link" href="/">6</a></li>
 								<li class="page-item mb-0">
-									<a class="page-link" href="#">
+									<a class="page-link" href="/">
 										<i class="fas fa-angle-double-right"></i>
 									</a>
 								</li>

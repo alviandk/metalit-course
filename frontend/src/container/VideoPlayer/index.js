@@ -37,7 +37,7 @@ const VideoPlayer = () => {
 							<div class="card vh-100 overflow-auto rounded-0 w-280px w-sm-400px">
 								<div class="card-header bg-light rounded-0">
 									<h1 class="mt-2 fs-5">The Complete Digital Marketing Course - 12 Courses in 1</h1>
-									<h6 class="mb-0 fw-normal"><a href="#">By Jacqueline Miller</a></h6>
+									<h6 class="mb-0 fw-normal"><a href="/">By Jacqueline Miller</a></h6>
 								</div>
 
 								<div class="card-body">
@@ -59,7 +59,7 @@ const VideoPlayer = () => {
 
 																	<div class="d-flex justify-content-between align-items-center">
 																		<div class="position-relative d-flex align-items-center">
-																			<a href="#" class="btn btn-danger-soft btn-round btn-sm mb-0 stretched-link position-static">
+																			<a href="/" class="btn btn-danger-soft btn-round btn-sm mb-0 stretched-link position-static">
 																				<i class="fas fa-play me-0"></i>
 																			</a>
 																			<span class="d-inline-block text-truncate ms-2 mb-0 h6 fw-light w-100px w-sm-200px">Introduction</span>
@@ -68,7 +68,7 @@ const VideoPlayer = () => {
 																	</div>
 																	<div class="d-flex justify-content-between align-items-center">
 																		<div class="position-relative d-flex align-items-center">
-																			<a href="#" class="btn btn-danger-soft btn-round btn-sm mb-0 stretched-link position-static">
+																			<a href="/" class="btn btn-danger-soft btn-round btn-sm mb-0 stretched-link position-static">
 																				<i class="fas fa-play me-0"></i>
 																			</a>
 																			<span class="d-inline-block text-truncate ms-2 mb-0 h6 fw-light w-100px w-sm-200px"> What is Digital Marketing What is Digital Marketing</span>
@@ -78,7 +78,7 @@ const VideoPlayer = () => {
 
 																	<div class="d-flex justify-content-between align-items-center">
 																		<div class="position-relative d-flex align-items-center">
-																			<a href="#" class="btn btn-danger-soft btn-round btn-sm mb-0 stretched-link position-static">
+																			<a href="/" class="btn btn-danger-soft btn-round btn-sm mb-0 stretched-link position-static">
 																				<i class="fas fa-play me-0"></i>
 																			</a>
 																			<span class="d-inline-block text-truncate ms-2 mb-0 h6 fw-light w-100px w-sm-200px">Type of Digital Marketing</span>
@@ -102,7 +102,7 @@ const VideoPlayer = () => {
 				
 																	<div class="d-flex justify-content-between align-items-center">
 																		<div class="position-relative d-flex align-items-center">
-																			<a href="#" class="btn btn-danger-soft btn-round btn-sm mb-0 stretched-link position-static">
+																			<a href="/" class="btn btn-danger-soft btn-round btn-sm mb-0 stretched-link position-static">
 																				<i class="fas fa-play me-0"></i>
 																			</a>
 																			<span class="d-inline-block text-truncate ms-2 mb-0 h6 fw-light w-100px w-sm-200px">Video Flow</span>
@@ -113,7 +113,7 @@ const VideoPlayer = () => {
 												
 																	<div class="d-flex justify-content-between align-items-center">
 																		<div class="position-relative d-flex align-items-center">
-																			<a href="#" class="btn btn-danger-soft btn-round btn-sm mb-0 stretched-link position-static">
+																			<a href="/" class="btn btn-danger-soft btn-round btn-sm mb-0 stretched-link position-static">
 																				<i class="fas fa-play me-0"></i>
 																			</a>
 																			<span class="d-inline-block text-truncate ms-2 mb-0 h6 fw-light w-100px w-sm-200px">Webmaster Tool</span>
@@ -123,7 +123,7 @@ const VideoPlayer = () => {
 
 																	<div class="d-flex justify-content-between align-items-center">
 																		<div class="position-relative d-flex align-items-center">
-																			<a href="#" class="btn btn-danger-soft btn-round btn-sm mb-0 stretched-link position-static">
+																			<a href="/" class="btn btn-danger-soft btn-round btn-sm mb-0 stretched-link position-static">
 																				<i class="fas fa-play me-0"></i>
 																			</a>
 																			<span class="d-inline-block text-truncate ms-2 mb-0 h6 fw-light w-100px w-sm-200px">Featured Contents on Channel</span>
@@ -134,7 +134,7 @@ const VideoPlayer = () => {
 													
 																	<div class="d-flex justify-content-between align-items-center">
 																		<div class="position-relative d-flex align-items-center">
-																			<a href="#" class="btn btn-light btn-round btn-sm mb-0 stretched-link position-static">
+																			<a href="/" class="btn btn-light btn-round btn-sm mb-0 stretched-link position-static">
 																				<i class="bi bi-lock-fill"></i>
 																			</a>
 																			<span class="d-inline-block text-truncate ms-2 mb-0 h6 fw-light w-100px w-sm-200px">Managing Comments</span>
@@ -144,7 +144,7 @@ const VideoPlayer = () => {
 
 																	<div class="d-flex justify-content-between align-items-center">
 																		<div class="position-relative d-flex align-items-center">
-																			<a href="#" class="btn btn-light btn-round btn-sm mb-0 stretched-link position-static">
+																			<a href="/" class="btn btn-light btn-round btn-sm mb-0 stretched-link position-static">
 																				<i class="bi bi-lock-fill"></i>
 																			</a>
 																			<span class="d-inline-block text-truncate ms-2 mb-0 h6 fw-light w-100px w-sm-200px">Channel Analytics</span>
@@ -163,7 +163,7 @@ const VideoPlayer = () => {
 
 								<div class="card-footer">
 									<div class="d-grid">
-										<a href="course-detail" class="btn btn-primary-soft mb-0">Back to course</a>
+										<a href="/course-detail" class="btn btn-primary-soft mb-0">Back to course</a>
 									</div>
 								</div>
 
